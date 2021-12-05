@@ -20,7 +20,7 @@ install obs-v4l2sink plugiin on ubuntu 20.04
 ** install the deb file
 
 #+begin_src sh
-sudo dkpg -i obs-v4l2sink.deb
+sudo dpkg -i obs-v4l2sink.deb
 #+end_src
 
 install any missing dependencies
